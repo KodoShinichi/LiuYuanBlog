@@ -2,9 +2,10 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base:"LiuYuanBlog",
+  base:"/LiuYuanBlog/",
   title: "LiuYuan Blog",
   description: "LiuYuan的博客",
+  outDir: "../public",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
