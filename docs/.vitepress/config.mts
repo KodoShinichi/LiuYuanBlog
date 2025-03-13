@@ -3,9 +3,8 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base:"/LiuYuanBlog/",
-  title: "LiuYuan Blog",
-  description: "LiuYuan的博客",
-  outDir: "../public",
+  title: "Reborn",
+  description: "朕的江山",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
