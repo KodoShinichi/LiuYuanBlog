@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Reborn"
   text: "朕的江山"
-  tagline: My great project tagline
+  tagline: 刘芫的技术博客
   actions:
     - theme: brand
       text: Markdown Examples
